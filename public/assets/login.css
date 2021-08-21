@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap");
+.main__login-form {
+  width: 100%;
+  margin-bottom: 3rem;
+}
+
+.main__login-form .container {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.main__login-form .container .card {
+  height: auto;
+  background: #f5f5f5;
+}
+
+.main__login-form .container .card:nth-child(1) {
+  width: 30%;
+}
+
+.main__login-form .container .card:nth-child(2) {
+  width: 60%;
+}
+
+.main__login-form .container .card h3 {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.main__login-form .container .card h5, .main__login-form .container .card p {
+  color: #a5a5a5;
+}
+
+.main__login-form .container .card p {
+  font-size: 15px;
+}
+
+.main__login-form .container .card form label {
+  font-weight: 600;
+  color: #a5a5a5;
+}
+
+.main__login-form .container .card form .forgotten {
+  margin-bottom: 10px;
+}
+
+.main__login-form .container .card form .forgotten a {
+  color: #000;
+  text-decoration: none;
+}
+
+.main__login-form .container .card form .forgotten a:hover {
+  color: #ff7675;
+}
+/*# sourceMappingURL=login.css.map */

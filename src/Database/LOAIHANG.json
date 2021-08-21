@@ -1,0 +1,18 @@
+[
+    {
+        "MALOAI": 1,
+        "TENLOAI": "Men"
+    },
+    {
+        "MALOAI": 2,
+        "TENLOAI": "Woman"
+    },
+    {
+        "MALOAI": 3,
+        "TENLOAI": "Kids"
+    },
+    {
+        "MALOAI": 4,
+        "TENLOAI": "Accessories"
+    }
+]

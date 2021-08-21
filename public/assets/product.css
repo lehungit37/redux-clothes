@@ -1,0 +1,232 @@
+@charset "UTF-8";
+.product__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+}
+
+.product__list .product__item {
+  width: calc(100%/4 - 1rem);
+  margin: 0 15px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.product__list .product__item:hover {
+  -webkit-box-shadow: 5px 5px 10px 5px #dfe6e9;
+          box-shadow: 5px 5px 10px 5px #dfe6e9;
+}
+
+.product__list .product__item .product__img {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.product__list .product__item .product__img a img {
+  width: 100%;
+}
+
+.product__list .product__item .product__img .product__handle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  position: absolute;
+  bottom: -75px;
+  left: 0;
+  width: 100%;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.product__list .product__item .product__img .product__handle.active__hover {
+  bottom: 0px;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle {
+  width: 50%;
+  border: 1px solid #ff7675;
+  background: #fff;
+  text-align: center;
+  padding: .5rem;
+  cursor: pointer;
+  position: relative;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle i {
+  z-index: 10;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle:hover {
+  background: #ff7675;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle::before, .product__list .product__item .product__img .product__handle .btn__handle::after {
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  z-index: -1;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle::before {
+  position: absolute;
+  background-color: #000;
+  color: #fff;
+  top: -1.5rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 100%;
+  font-size: 10px;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle::after {
+  content: '';
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  border: 10px solid #000;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  color: #fff;
+  top: -.7rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.active__btn::after, .product__list .product__item .product__img .product__handle .btn__handle.active__btn::before {
+  visibility: visible;
+  opacity: 1;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__view {
+  color: #ff7675;
+  -webkit-text-decoration: #ff7675;
+          text-decoration: #ff7675;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__view::before {
+  content: "Xem chi tiết";
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__view::after {
+  content: '';
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__view:hover {
+  color: #fff;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__addCart {
+  color: #ff7675;
+  text-decoration: none;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__addCart:hover {
+  color: #fff;
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__addCart::before {
+  content: "Thêm vào giỏ hàng";
+}
+
+.product__list .product__item .product__img .product__handle .btn__handle.btn__addCart::after {
+  content: '';
+}
+
+.product__list .product__item .infor {
+  width: 100%;
+}
+
+.product__list .product__item .infor .product__name {
+  padding: 1rem 0;
+  border-bottom: 1px dashed #000;
+}
+
+.product__list .product__item .infor .product__name a {
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.product__list .product__item .infor .product__price {
+  padding: .5rem 0;
+  color: #ff7675;
+}
+
+.product__list .slick-prev, .product__list .slick-next {
+  width: 40px;
+  height: 40px;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.product__list .slick-prev::before, .product__list .slick-next::before {
+  color: #000;
+  font-size: 40px;
+}
+
+.product__list .slick-next {
+  right: -40px;
+}
+
+.product__list .slick-prev {
+  left: -40px;
+}
+
+.product__list:hover .slick-prev, .product__list:hover .slick-next {
+  opacity: 1;
+  visibility: visible;
+}
+
+@-webkit-keyframes stoke {
+  0% {
+    width: 0px;
+    height: 0px;
+  }
+  50% {
+    height: 10px;
+    width: calc(100%+10px);
+  }
+  100% {
+    height: calc(100%+20px);
+    width: calc(100%+10px);
+  }
+}
+
+@keyframes stoke {
+  0% {
+    width: 0px;
+    height: 0px;
+  }
+  50% {
+    height: 10px;
+    width: calc(100%+10px);
+  }
+  100% {
+    height: calc(100%+20px);
+    width: calc(100%+10px);
+  }
+}
+/*# sourceMappingURL=product.css.map */

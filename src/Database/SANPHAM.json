@@ -1,0 +1,343 @@
+[
+    {
+        "MASP": 11,
+        "TENSP": "Áo nam 1",
+        "GIA": 120000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/7-270x406.jpg",
+        "HINHLIENQUAN": [
+            "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/9-270x406.jpg",
+            "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/11-270x406.jpg",
+            "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/12-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nam 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 1
+    },
+    {
+        "MASP": 12,
+        "TENSP": "Áo nam 2",
+        "GIA": 200000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/9-270x406.jpg" ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/10-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/11-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/12-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nam 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 1
+
+    },
+    {
+        "MASP": 13,
+        "TENSP": "Áo nam 3",
+        "GIA": 170000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/10-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/11-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/12-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/7-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nam 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 1
+
+    },
+    {
+        "MASP": 14,
+        "TENSP": "Áo nam 4",
+        "GIA": 130000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/11-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/12-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/7-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/8-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nam 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 1
+
+    },
+    {
+        "MASP": 15,
+        "TENSP": "Áo nam 5",
+        "GIA": 200000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/12-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/7-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/8-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/9-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nam 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 1
+
+    },
+    {
+        "MASP": 16,
+        "TENSP": "Áo nam 6",
+        "GIA": 560000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/7-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/8-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/9-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/7-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nam 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 1
+
+    },
+    {
+        "MASP": 21,
+        "TENSP": "Áo nữ 1",
+        "GIA": 120000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/1-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/2-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/3-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/5-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nu 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 2
+    },
+    {
+        "MASP": 22,
+        "TENSP": "Áo nữ 2",
+        "GIA": 220000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/2-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/3-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/5-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/4-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nu 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 2
+    },
+    {
+        "MASP": 23,
+        "TENSP": "Áo nữ 3",
+        "GIA": 600000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/3-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/5-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/4-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/6-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nu 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 2
+    },
+    {
+        "MASP": 24,
+        "TENSP": "Áo nữ 4",
+        "GIA": 100000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/5-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/4-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/6-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/1-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nu 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 2
+    },
+    {
+        "MASP": 25,
+        "TENSP": "Áo nữ 5",
+        "GIA": 450000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/4-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/6-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/1-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/2-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nu 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 2
+    },
+    {
+        "MASP": 26,
+        "TENSP": "Áo nữ 6",
+        "GIA": 600000,
+        "HINH": "http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/6-270x406.jpg"
+        ,
+        "HINHLIENQUAN": ["http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/1-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/2-270x406.jpg"
+            ,"http://aaryaweb.info/opc/theshop/sho001/image/cache/catalog/demo/3-270x406.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo nu 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 2
+    },
+    {
+        "MASP": 31,
+        "TENSP": "Áo trẻ em 1",
+        "GIA": 250000,
+        "HINH": "https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sk010-1.jpg"
+        ,
+        "HINHLIENQUAN": ["https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sw001-5.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s020-sb004-2-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s012-sw001-2-thumb-.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo trẻ em 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 3
+    },
+    {
+        "MASP": 32,
+        "TENSP": "Áo trẻ em 2",
+        "GIA": 630000,
+        "HINH": "https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sw001-5.jpg"
+        ,
+        "HINHLIENQUAN": ["https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s020-sb004-2-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s012-sw001-2-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s015-sr102-2-thumb-.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo trẻ em 2 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 3
+    },
+    {
+        "MASP": 33,
+        "TENSP": "Áo trẻ em 3",
+        "GIA": 100000,
+        "HINH": "https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s020-sb004-2-thumb-.jpg"
+        ,
+        "HINHLIENQUAN": ["https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s012-sw001-2-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s015-sr102-2-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s008-sg386-1-thumb-.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo trẻ em 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 3
+    },
+    {
+        "MASP": 34,
+        "TENSP": "Áo trẻ em 4",
+        "GIA": 800000,
+        "HINH": "https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s012-sw001-2-thumb-.jpg"
+        ,
+        "HINHLIENQUAN": ["https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s015-sr102-2-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s008-sg386-1-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sk010-1.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo trẻ em 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 3
+    },
+    {
+        "MASP": 35,
+        "TENSP": "Áo trẻ em 5",
+        "GIA": 300000,
+        "HINH": "https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s015-sr102-2-thumb-.jpg"
+        ,
+        "HINHLIENQUAN": ["https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s008-sg386-1-thumb-.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sk010-1.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sw001-5.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo trẻ em 1 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 3
+    },
+    {
+        "MASP": 36,
+        "TENSP": "Áo trẻ em 6",
+        "GIA": 150000,
+        "HINH": "https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s008-sg386-1-thumb-.jpg"
+        ,
+        "HINHLIENQUAN": ["https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sk010-1.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/3ts21s002-sw001-5.jpg"
+            ,"https://media.canifa.com/catalog/product/cache_generated/500x/2ts21s020-sb004-2-thumb-.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, chiếc áo trẻ em 6 sẽ mang đến cho bạn 1 cảm giác mặc thoải mái và tiện lợi",
+        "MALOAI": 3
+    },
+    {
+        "MASP": 41,
+        "TENSP": "Phụ kiện 1",
+        "GIA": 45000,
+        "HINH": "https://salt.tikicdn.com/cache/200x200/ts/product/21/c2/8b/5db0efe8ec45b191895e9e61ed4bd238.jpg"
+        ,
+        "HINHLIENQUAN": ["https://salt.tikicdn.com/cache/200x200/ts/product/33/fb/2a/ee9284ff71b09b8283840d7ef5a8c6de.jpg"
+            ,"https://salt.tikicdn.com/cache/280x280/ts/product/36/0b/91/2dd3023f9b3d0edc8089079a2c7d6af5.jpg"
+            ,"https://salt.tikicdn.com/cache/280x280/ts/product/34/4d/09/16a71f0cc37700aa7f3f9d09a9dc8a4b.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, phụ kiện 1 sẽ mang lại cho bạn 1 vẻ bề ngoài sang trọng nhất",
+        "MALOAI": 4
+    },
+    {
+        "MASP": 42,
+        "TENSP": "Phụ kiện 2",
+        "GIA": 35000,
+        "HINH": "https://salt.tikicdn.com/cache/200x200/ts/product/33/fb/2a/ee9284ff71b09b8283840d7ef5a8c6de.jpg"
+        ,
+        "HINHLIENQUAN": ["https://salt.tikicdn.com/cache/280x280/ts/product/36/0b/91/2dd3023f9b3d0edc8089079a2c7d6af5.jpg"
+            ,"https://salt.tikicdn.com/cache/280x280/ts/product/34/4d/09/16a71f0cc37700aa7f3f9d09a9dc8a4b.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/a4/29/01/67e09355c00be896ca632236106ffc3d.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, phụ kiện 2 sẽ mang lại cho bạn 1 vẻ bề ngoài sang trọng nhất",
+        "MALOAI": 4
+    },
+    {
+        "MASP": 43,
+        "TENSP": "Phụ kiện 3",
+        "GIA": 20000,
+        "HINH": "https://salt.tikicdn.com/cache/280x280/ts/product/36/0b/91/2dd3023f9b3d0edc8089079a2c7d6af5.jpg"
+        ,
+        "HINHLIENQUAN": ["https://salt.tikicdn.com/cache/280x280/ts/product/34/4d/09/16a71f0cc37700aa7f3f9d09a9dc8a4b.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/a4/29/01/67e09355c00be896ca632236106ffc3d.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/3e/b0/40/70951203e4f6d4fc79cb83fc9ce360e6.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, phụ kiện 3 sẽ mang lại cho bạn 1 vẻ bề ngoài sang trọng nhất",
+        "MALOAI": 4
+    },
+    {
+        "MASP": 44,
+        "TENSP": "Phụ kiện 4",
+        "GIA": 100000,
+        "HINH": "https://salt.tikicdn.com/cache/280x280/ts/product/34/4d/09/16a71f0cc37700aa7f3f9d09a9dc8a4b.jpg"
+        ,
+        "HINHLIENQUAN": ["https://salt.tikicdn.com/cache/200x200/ts/product/a4/29/01/67e09355c00be896ca632236106ffc3d.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/3e/b0/40/70951203e4f6d4fc79cb83fc9ce360e6.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/21/c2/8b/5db0efe8ec45b191895e9e61ed4bd238.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, phụ kiện 4 sẽ mang lại cho bạn 1 vẻ bề ngoài sang trọng nhất",
+        "MALOAI": 4
+    },
+    {
+        "MASP": 45,
+        "TENSP": "Phụ kiện 5",
+        "GIA": 60000,
+        "HINH": "https://salt.tikicdn.com/cache/200x200/ts/product/a4/29/01/67e09355c00be896ca632236106ffc3d.jpg"
+        ,
+        "HINHLIENQUAN": ["https://salt.tikicdn.com/cache/200x200/ts/product/3e/b0/40/70951203e4f6d4fc79cb83fc9ce360e6.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/21/c2/8b/5db0efe8ec45b191895e9e61ed4bd238.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/33/fb/2a/ee9284ff71b09b8283840d7ef5a8c6de.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, phụ kiện 6 sẽ mang lại cho bạn 1 vẻ bề ngoài sang trọng nhất",
+        "MALOAI": 4
+    },
+    {
+        "MASP": 46,
+        "TENSP": "Phụ kiện 6",
+        "GIA": 85000,
+        "HINH": "https://salt.tikicdn.com/cache/200x200/ts/product/a4/29/01/67e09355c00be896ca632236106ffc3d.jpg"
+        ,
+        "HINHLIENQUAN": ["https://salt.tikicdn.com/cache/200x200/ts/product/3e/b0/40/70951203e4f6d4fc79cb83fc9ce360e6.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/21/c2/8b/5db0efe8ec45b191895e9e61ed4bd238.jpg"
+            ,"https://salt.tikicdn.com/cache/200x200/ts/product/33/fb/2a/ee9284ff71b09b8283840d7ef5a8c6de.jpg"
+        ],
+        "SIZE": ["S","M","L"],
+        "CHITIET": "Với một thiết kế hoàn hảo, phụ kiện 1 sẽ mang lại cho bạn 6 vẻ bề ngoài sang trọng nhất",
+        "MALOAI": 4
+    }
+   
+]

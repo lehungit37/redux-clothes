@@ -1,0 +1,105 @@
+.main__register-form {
+  width: 100%;
+}
+
+.main__register-form .container h3 {
+  font-size: 25px;
+  font-weight: 800;
+  width: 100%;
+  border-bottom: 1px solid #686868;
+  padding: 10px 0px;
+}
+
+.main__register-form .container p {
+  color: #a8a8a8;
+}
+
+.main__register-form .container p a {
+  text-decoration: none;
+  color: #000;
+}
+
+.main__register-form .container p a:hover {
+  color: #ff7675;
+}
+
+.main__register-form .container .listform {
+  width: 50%;
+}
+
+.main__register-form .container .listform .form__item {
+  width: 100%;
+}
+
+.main__register-form .container .listform .form__item h5 {
+  border-bottom: 1px solid #686868;
+}
+
+.main__register-form .container .listform .form__item .form__group {
+  padding: 0px 2rem;
+  width: 100%;
+  margin: 1.4rem 0rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.main__register-form .container .listform .form__item .form__group label {
+  margin-right: 10px;
+  width: 30%;
+  position: relative;
+  color: #a8a8a8;
+  font-weight: 600;
+}
+
+.main__register-form .container .listform .form__item .form__group label::before {
+  content: '*';
+  color: #f00;
+  font-weight: bold;
+  position: absolute;
+  top: 4px;
+  left: -10px;
+}
+
+.main__register-form .container .listform .form__item .form__group input {
+  width: 70%;
+  padding: 0px 15px;
+  outline: none;
+  border: 1px solid #686868;
+  color: #a8a8a8;
+}
+
+.main__register-form .container .listform .form__item .form__group .form-check label::before {
+  content: "";
+}
+
+.main__register-form .container .listform .form__item .form__group .form-check label input {
+  width: 150%;
+}
+
+.main__register-form .container .listform .form__item.submit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.main__register-form .container .listform .form__item.submit span {
+  margin-right: 10px;
+  padding: 10px 0px;
+  color: #a8a8a8;
+}
+/*# sourceMappingURL=register.css.map */
